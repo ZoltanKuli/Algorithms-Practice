@@ -4,4 +4,4 @@ During the spring of 2020, I created Algorithms Practice because I was curious t
 
 I didn't do a perfect job when implementing them. For example, I could have used generics and streams. And back then, I didn't know how important it is to think about our data structures before implementing an algorithm of any kind.
 
-But considering everything, this was still a fun project, and it improved my skills and knowledge.
+But considering everything, this was still an interesting project, and it improved my skills and knowledge.
