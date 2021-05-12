@@ -1,4 +1,4 @@
-# The Story behind Algorithms Practice
+# The Story Behind Algorithms Practice
 
 During the spring of 2020, I created Algorithms Practice because I was curious to see and compare some of the most well-known sorting algorithms in practice.
 
