@@ -1,5 +1,12 @@
-# The Story Behind Algorithms Practice
+# Algorithms Practice
+I made Algorithms Practice during the spring of 2020.
 
-During the spring of 2020, I made Algorithms Practice because I was curious to see and compare some of the most well-known sorting algorithms in practice.
+My goal was to see and compare some of the most well-known sorting algorithms in practice.
 
-These days, I would use generics and possibly streams where it made sense, but considering everything, this was an interesting project, and it improved my skills and knowledge.
+# Skills Demonstrated
+* Implemented an algorithm that generates a list of random numbers.
+* Implemented the BubblecSort, the HeapcSort, the InsertioncSort, Merge Sort, the Quick Sort, and the Selection Sort algorithms.
+
+# Technologies Used
+* Java
+* IntelliJ IDEA
